@@ -5,8 +5,7 @@
   <a href="https://www.linkedin.com/in/rickrribeiro">
     <img height="auto" width="40" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
   </a>
-  <img height="auto" width="40" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
-  <p>Email: rickribeiro99@gmail.com</p>
+
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickrribeiro&count_private=true)
