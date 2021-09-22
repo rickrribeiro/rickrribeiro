@@ -20,7 +20,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickrribeiro&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickrribeiro&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickrribeiro&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 (idk why because im using JS more than Python, but its okay)
 
 
