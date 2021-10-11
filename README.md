@@ -17,17 +17,6 @@
 
 ### Fun data:
 
-<!--START_SECTION:waka-->
-```text
-Week: 04 October, 2021 - 10 October, 2021
-
-JavaScript       12 hrs 5 mins   ██████████████████▒░░░░░░   73.92 % 
-Blade Template   1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-EJS              38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Other            32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-XML              19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-```
-<!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rickrribeiro&theme=highcontrast)](https://git.io/streak-stats)
 
