@@ -19,6 +19,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 04 October, 2021 - 10 October, 2021
+
 JavaScript       12 hrs 5 mins   ██████████████████▒░░░░░░   73.92 % 
 Blade Template   1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 EJS              38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
