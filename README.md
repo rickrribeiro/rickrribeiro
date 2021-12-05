@@ -20,5 +20,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rickrribeiro&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickrribeiro&langs_count=10&count_private=true&hide=ShaderLab,Less,Cython,PowerShell,SCSS,HLSL,Roff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickrribeiro&langs_count=10&count_private=true&hide=ShaderLab,Less,Cython,PowerShell,SCSS,HLSL,Roff,PHP&layout=compact&exclude_repo=django_course,CityRACampusParty_Hololens&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
