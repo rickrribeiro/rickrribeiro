@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Back+End%2FFull+Stack+Developer)](https://git.io/typing-svg)
 
 ## 🔧 I'm Currently Working With
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
