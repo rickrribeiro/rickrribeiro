@@ -8,12 +8,9 @@
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/MYSQL-ff1709?style=for-the-badge&logo=mysql&logoColor=white&color=ff1709&labelColor=gray)
-![](https://img.shields.io/badge/kafka-%23007ACC.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/EJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/PM2-1DA1F2?style=for-the-badge&logo=pm2&logoColor=white)
+![](https://img.shields.io/badge/aws-f9b2Af?style=for-the-badge&logo=amazon&logoColor=white)
+![](https://img.shields.io/badge/travis-f9b2Af?style=for-the-badge&logo=travis&logoColor=white)
 
 ## 🔧 Tools
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -25,8 +22,12 @@
 ![](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Trello-1DA1F2?style=for-the-badge&logo=trello&logoColor=white)
+![](https://img.shields.io/badge/Jira-892CA0?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 🔧 I've already worked with:
+![](https://img.shields.io/badge/MYSQL-ff1709?style=for-the-badge&logo=mysql&logoColor=white&color=ff1709&labelColor=gray)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/kafka-%23007ACC.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -36,6 +37,8 @@
 ![](https://img.shields.io/badge/Hololens-100000?style=for-the-badge&logo=hololens&logoColor=white)
 ![](img.shields.io/badge/Vuforia-43853D?style=for-the-badge&logo=vuforia&logoColor=white)
 ![](http://img.shields.io/badge/Visual_Studio-892CA0?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/EJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/PM2-1DA1F2?style=for-the-badge&logo=pm2&logoColor=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickrribeiro&langs_count=10&count_private=true&hide=ShaderLab,Less,Cython,PowerShell,SCSS,HLSL,Roff,PHP&layout=compact&exclude_repo=django_course,CityRACampusParty_Hololens&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
