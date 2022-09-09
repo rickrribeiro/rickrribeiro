@@ -40,7 +40,7 @@
 ![](https://img.shields.io/badge/PM2-1DA1F2?style=for-the-badge&logo=pm2&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickrribeiro&langs_count=10&count_private=true&hide=ShaderLab,Less,Cython,PowerShell,SCSS,HLSL,Roff,PHP&layout=compact&exclude_repo=django_course,CityRACampusParty_Hololens&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickrribeiro&langs_count=10&count_private=true&hide=ShaderLab,Less,Cython,PowerShell,SCSS,CSS,HLSL,Roff,PHP&layout=compact&exclude_repo=django_course,CityRACampusParty_Hololens&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Reach me:
 <div text-align="justify">
