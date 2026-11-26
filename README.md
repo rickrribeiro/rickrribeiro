@@ -45,4 +45,4 @@ I built TinderGPT and took it to a NodeBR meetup in 2023. If you’d like to see
 
 **Away from the keyboard** Salvador is home. I’ve studied in Ireland for 7 months, and years exploring 20 countries. If we ever meet, ask me why I went to Kumamoto in Japan for One Piece.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickrribeiro&langs_count=10&count_private=true&hide=SCSS,CSS&layout=compact&exclude_repo=django_course,CityRACampusParty_Hololens&theme=tokyonight&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=rickrribeiro&langs_count=10&count_private=true&hide=SCSS,CSS&layout=compact&exclude_repo=django_course,CityRACampusParty_Hololens&theme=tokyonight&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
