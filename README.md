@@ -1,8 +1,9 @@
 # Ricardo Ribeiro / `git blame rick`
 
-Full-stack software engineer from Salvador, Brazil. Digital nomad.
+>7yrs exp Full-stack software engineer from Salvador, Brazil. Digital nomad.
 
 I like building software, figuring out how it behaves once people use it, and automating the things I get tired of doing by hand.
+
 At work, I build software and the infrastructure behind it. That means I can spend one day working on a feature someone asked for, the next figuring out when a queue needs another worker and the sunday trying to use cache on redis to improve the performance.
 
 [LinkedIn](https://www.linkedin.com/in/rickrribeiro/) · [Portfolio](https://rickrribeiro.github.io/)
