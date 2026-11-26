@@ -1,6 +1,6 @@
 # Ricardo Ribeiro / `git blame rick`
 
->7yrs exp Full-stack software engineer from Salvador, Brazil. Digital nomad.
++7yrs exp Full-stack software engineer from Salvador, Brazil. Digital nomad.
 
 I like building software, figuring out how it behaves once people use it, and automating the things I get tired of doing by hand.
 
