@@ -22,11 +22,11 @@ A release usually leaves me with a few questions. Did the change help the person
 </details>
 
 <details>
-<summary><strong>I built a time tracker. Then I realized I was tracking the wrong thing.</strong></summary>
+<summary><strong>I wanted a time tracker. I ended up building my own personal OS.</strong></summary>
 
-Knowing I’d spent three hours on a project was useful. Opening it a week later and remembering what I was halfway through was the harder problem.
+RickOS started with a simple question: where did my time go? Then I’d reopen a project a week later, see three hours logged, and still have to dig through branches and notes to remember what I’d been trying to fix.
 
-That’s the part of RickOS I care about most. It brings my sessions, branches, and next actions together so I can sit down and pick up where I left off.
+These days, I open RickOS to pick up an unfinished branch, plan a trip, check my spending, or review vocabulary I’m learning. It runs on my laptop, I can use it from my phone, and my data lives in a local SQLite database. It grew one small frustration at a time.
 
 [Look inside RickOS →](https://github.com/rickrribeiro/RickOS)
 
